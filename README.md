@@ -2,7 +2,7 @@
 End-to-end retail sales and profitability pipeline using Excel, MySQL, and Power BI.
 
 Tools & Technologies Used:
-1. Microsoft Excel: Initial data exploration, data cleaning, and rapid prototyping using Pivot Tables and 'INDEX/MATCH'. Used INDEX/MATCH to integrate Orders and Returns tables. Used Pivot Tables, Slicers and Charts to show Sales by Category and Sales by Customer segments.
+1. Microsoft Excel: Initial data exploration, data cleaning, and rapid prototyping using Pivot Tables and 'INDEX/MATCH'. Used INDEX/MATCH to integrate Orders and Returns tables. Used Pivot Tables, Slicers and Charts to show Sales by Category and Sales by Customer segments. Used Conditional Formatting on sales and profit data.
 2. MySQL: Engineered a relational database and wrote advanced queries to extract KPIs.
 3. Microsoft Power BI: Connected directly to the local MySQL database to build an automated and interactive dashboard for executive stakeholders. Created visualization to show issues in product sub-categories.
 
